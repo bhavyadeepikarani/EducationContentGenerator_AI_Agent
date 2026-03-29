@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 EduGen AI Agent
 ### Educational Content Generator — Track A Production Project
 
@@ -173,3 +174,4 @@ GOOGLE_API_KEY = "AIza..."
 ## 📄 License
 
 MIT © 2024 EduGen Team
+=======
